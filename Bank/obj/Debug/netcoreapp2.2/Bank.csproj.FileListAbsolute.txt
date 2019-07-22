@@ -1,0 +1,11 @@
+E:\riderProject\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.deps.json
+E:\riderProject\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.json
+E:\riderProject\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.runtimeconfig.dev.json
+E:\riderProject\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.dll
+E:\riderProject\Bank\Bank\bin\Debug\netcoreapp2.2\Bank.pdb
+E:\riderProject\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.csprojAssemblyReference.cache
+E:\riderProject\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.csproj.CoreCompileInputs.cache
+E:\riderProject\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfoInputs.cache
+E:\riderProject\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.AssemblyInfo.cs
+E:\riderProject\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.dll
+E:\riderProject\Bank\Bank\obj\Debug\netcoreapp2.2\Bank.pdb
